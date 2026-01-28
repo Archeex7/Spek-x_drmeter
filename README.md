@@ -66,6 +66,11 @@ Folder:   /home/user/Music/Artist - Album
 │ DR12 │  -1.10 dB │ -16.05 dB │ 04:20 │ 44100Hz │ 16bit │ 2  │ 42.10MB  │ 02 - Another Track.flac                  │
 ╰──────┴───────────┴───────────┴───────┴─────────┴───────┴────┴──────────┴──────────────────────────────────────────╯
 ```
+---
+
+## Демонстрация / Demonstration
+
+https://github.com/user-attachments/assets/f37ed395-cbc3-4381-8b65-37c9e4f41612
 
 ---
 
@@ -79,3 +84,7 @@ Folder:   /home/user/Music/Artist - Album
 * **DRMeter:** [janw](https://github.com/janw/drmeter)
 
 ---
+
+
+
+
